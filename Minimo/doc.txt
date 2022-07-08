@@ -1,0 +1,28 @@
+
+font-family: 'Playfair Display', serif;
+
+font-family: 'Ubuntu', sans-serif;
+
+
+
+
+
+
+
+
+
+
+
+
+
+ttf/otf/woff
+svg
+eot
+
+
+ui ux
+subject
+colour combination-2/3
+typography-2/3
+spacing
+consistancy
